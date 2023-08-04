@@ -2,7 +2,7 @@
     "name": "Zaid Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram", "Zaid", "ZaidMusic", "Zaid Vc Music"],
-    "repository": "https://github.com/Itz-Zaid/Zaid-Vc-Player",
+    "repository": "https://github.com/aryan8292/Zvc",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -60,7 +60,7 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     },
     {
-      "url": "heroku/python"
+      "url": "free"
     }
   ]
 }
